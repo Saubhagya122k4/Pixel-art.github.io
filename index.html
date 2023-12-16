@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="style.css">
+    <title>Pixel Art Generator</title>
+</head>
+
+<body class="bg-black font-mono">
+    <div class="flex justify-center items-center h-[100vh]">
+        <div class="wrapper bg-white w-[80vmin] px-5 py-10 rounded-md shadow-lg">
+            <div class="options">
+                <div class="opt-wrapper flex justify-between mb-[20px] gap-[10px]">
+                    <div class="slider">
+                        <label for="width-range" class="block">Grid Width</label>
+                        <input type="range" id="width-range" class="accent-green-500" min="1" max="30">
+                        <span id="width-value" class="text-xl font-bold">00</span>
+                    </div>
+                    <div class="slider">
+                        <label for="height-range" class="block">Grid Height</label>
+                        <input type="range" id="height-range" class="accent-green-500" min="1" max="30">
+                        <span id="height-value" class="text-xl font-bold">00</span>
+                    </div>
+                </div>
+
+                <div class="opt-wrapper flex justify-between mb-[20px] gap-[10px]">
+                    <button id="submit-grid" class="bg-green-600 border-none rounded-md p-2 text-white font-bold">Create Grid</button>
+                    <button id="clear-grid" class="bg-green-600 border-none rounded-md p-2 text-white font-bold">Clear Grid</button>
+                    <input type="color" id="color-input">
+                    <button id="erase-btn" class="bg-green-600 border-none rounded-md p-2 text-white font-bold">Erase</button>
+                    <button id="paint-btn" class="bg-green-600 border-none rounded-md p-2 text-white font-bold">Paint</button>
+                </div>
+
+            </div>
+            <div class="container"></div>
+        </div>
+    </div>
+
+    <script src="index.js"></script>
+</body>
+
+</html>
