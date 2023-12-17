@@ -13,7 +13,8 @@ https://github.com/Saubhagya122k4/Pixel-art.github.io/assets/106757586/68ed157a-
 
 
 ### **Pixel Art Example:**
-![image](https://github.com/Saubhagya122k4/Pixel-art.github.io/assets/106757586/84527982-1e60-41cc-9ed1-fb58da93b102)
+![image](https://github.com/Saubhagya122k4/Pixel-art.github.io/assets/106757586/372f39ec-db67-454b-b142-0252999186ce)
+
 
 ### **🔗 Links**
 [![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saubhagya-vishwakarma-48734a243/)
