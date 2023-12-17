@@ -8,9 +8,9 @@ Pixel art is a form of digital art where images are created using small, square-
 4) And you are ready to work with the project.
     
 ### **Website Iterface**
-1️⃣ ![image](https://github.com/Saubhagya122k4/Pixel-art.github.io/assets/106757586/4a4a1578-2956-4a27-934d-a482199fdfda)
 
-2️⃣ ![image](https://github.com/Saubhagya122k4/Pixel-art.github.io/assets/106757586/d83bae52-582f-41cd-b992-d72e08bbaeaa)
+https://github.com/Saubhagya122k4/Pixel-art.github.io/assets/106757586/68ed157a-7374-484b-bb72-f974c6a02f8e
+
 
 ### **Pixel Art Example:**
 ![image](https://github.com/Saubhagya122k4/Pixel-art.github.io/assets/106757586/84527982-1e60-41cc-9ed1-fb58da93b102)
