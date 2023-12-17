@@ -21,7 +21,7 @@ input[type="color"]::-moz-color-swatch{
 .gridCol{
     height: 1em;
     width: 1em;
-    border: 1px solid #282727;
+    border: 1px solid #b9b8b8;
 }
 
 .gridRow{
