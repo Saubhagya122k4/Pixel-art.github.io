@@ -42,7 +42,6 @@ isTouchDevice();
 
 gridButton.addEventListener("click", () => {
     container.innerHTML = "";
-    container.style.border = "2px solid black";
     let count = 0;
     for (let i = 0; i < gridHeight.value; i++) {
         count += 2;
